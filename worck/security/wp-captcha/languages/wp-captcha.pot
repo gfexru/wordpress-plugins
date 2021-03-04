@@ -1,0 +1,978 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Captcha\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-03 20:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.6.2"
+
+#: admin/view/c4wp-image-settings.php:97 admin/view/c4wp-icon-settings.php:25
+msgid "1"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:106 admin/view/c4wp-icon-settings.php:34
+msgid "10"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:54
+msgid "10px"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:45
+msgid "1px"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:98 admin/view/c4wp-icon-settings.php:26
+msgid "2"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:46
+msgid "2px"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:99 admin/view/c4wp-icon-settings.php:27
+msgid "3"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:47
+msgid "3px"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:100 admin/view/c4wp-icon-settings.php:28
+msgid "4"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:48
+msgid "4px"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:101 admin/view/c4wp-icon-settings.php:29
+msgid "5"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:49
+msgid "5px"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:102 admin/view/c4wp-icon-settings.php:30
+msgid "6"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:50
+msgid "6px"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:103 admin/view/c4wp-icon-settings.php:31
+msgid "7"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:51
+msgid "7px"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:104 admin/view/c4wp-icon-settings.php:32
+msgid "8"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:52
+msgid "8px"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:105 admin/view/c4wp-icon-settings.php:33
+msgid "9"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:53
+msgid "9px"
+msgstr ""
+
+#: admin/view/c4wp-mathematical-settings.php:26
+msgid "Addition ( &#43; )"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:76
+msgid "Afrikaans"
+msgstr ""
+
+#: admin/view/c4wp-mathematical-settings.php:23
+msgid "Airthmatic Operations"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:75
+msgid "Alphabets And Digits"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:77
+msgid "Amharic"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:75
+msgid "Arabic"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:78
+msgid "Armenian"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:66
+msgid "Audio"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:113
+msgid "Awesome Support Login"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:116
+msgid "Awesome Support Registration"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:79
+msgid "Azerbaijani"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:80
+msgid "Basque"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:101
+msgid "BBPress new Topic"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:104
+msgid "BBPress Reply"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:81
+msgid "Bengali"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:110
+msgid "BuddyPress Create Group"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:107
+msgid "BuddyPress Registration"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:82
+msgid "Bulgarian"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:41
+msgid "Captcha Border"
+msgstr ""
+
+#: admin/view/c4wp-other-settings.php:21
+msgid "Captcha Empty Messages"
+msgstr ""
+
+#: admin/view/c4wp-other-settings.php:30
+msgid "Captcha Error Messages"
+msgstr ""
+
+#: admin/view/class-c4wp-admin-wizard.php:27
+msgid "Captcha Forms"
+msgstr ""
+
+#: admin/view/class-c4wp-admin-wizard.php:26
+msgid "Captcha Settings"
+msgstr ""
+
+#: admin/view/c4wp-other-settings.php:12
+msgid "Captcha Title"
+msgstr ""
+
+#: admin/view/class-c4wp-admin-wizard.php:25
+msgid "Captcha Types"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:83
+msgid "Catalan"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:69
+msgid "Character Types"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:84
+msgid "Chinese (Hong Kong)"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:85
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:86
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:44
+msgid "Compact"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:89
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:87
+msgid "Croatian"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:88
+msgid "Czech"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:89
+msgid "Danish"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:54
+msgid "Dark"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:64
+msgid "Dashed"
+msgstr ""
+
+#: admin/view/c4wp-other-settings.php:47
+msgid "Delete settings"
+msgstr ""
+
+#: admin/view/c4wp-other-settings.php:50
+msgid "Delete Settings on Plugin Deactivation."
+msgstr ""
+
+#. Author of the plugin
+msgid "Devnath verma"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:77
+msgid "Different Types available for creating Image Captcha."
+msgstr ""
+
+#: admin/view/c4wp-mathematical-settings.php:38
+msgid "Display Captcha as"
+msgstr ""
+
+#: admin/view/c4wp-mathematical-settings.php:32
+msgid "Division ( &#8260; )"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:68
+msgid "Do you want reCaptcha to be Image or Audio?\t\t\t\t\t\t\t"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:65
+msgid "Dotted"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:66
+msgid "Double"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:90
+msgid "Dutch"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:372
+msgid "eight"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:382
+msgid "eighteen"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:390
+msgid "eighty"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:375
+msgid "eleven"
+msgstr ""
+
+#: admin/view/c4wp-other-settings.php:42
+msgid "Enable to hide captcha for logged in users?"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:91
+msgid "English (UK)"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:92
+msgid "English (US)"
+msgstr ""
+
+#: includes/modules/bbpress/class-c4wp-new-topic.php:57
+#: includes/modules/bbpress/class-c4wp-new-topic.php:58
+#: includes/modules/bbpress/class-c4wp-reply.php:57
+#: includes/modules/bbpress/class-c4wp-reply.php:58
+#: includes/modules/awesome-support/class-c4wp-login.php:57
+#: includes/modules/awesome-support/class-c4wp-login.php:58
+#: includes/modules/awesome-support/class-c4wp-register.php:57
+#: includes/modules/awesome-support/class-c4wp-register.php:58
+#: includes/modules/jetpack-forms/class-c4wp-jetpack.php:124
+#: includes/modules/jetpack-forms/class-c4wp-jetpack.php:125
+#: includes/modules/jetpack-forms/class-c4wp-jetpack.php:223
+#: includes/modules/jetpack-forms/class-c4wp-jetpack.php:235
+#: includes/modules/subscriber/class-c4wp-subscriber.php:62
+#: includes/modules/subscriber/class-c4wp-subscriber.php:66
+#: includes/modules/subscriber/class-c4wp-subscriber.php:77
+#: includes/modules/subscriber/class-c4wp-subscriber.php:81
+#: includes/modules/subscriber/class-c4wp-subscriber.php:93
+#: includes/modules/subscriber/class-c4wp-subscriber.php:97
+#: includes/modules/subscriber/class-c4wp-subscriber.php:108
+#: includes/modules/subscriber/class-c4wp-subscriber.php:112
+#: includes/modules/wordpress/class-c4wp-login.php:57
+#: includes/modules/wordpress/class-c4wp-login.php:58
+#: includes/modules/wordpress/class-c4wp-reset-password.php:57
+#: includes/modules/wordpress/class-c4wp-reset-password.php:58
+#: includes/modules/wordpress/class-c4wp-register.php:57
+#: includes/modules/wordpress/class-c4wp-register.php:58
+msgid "Error"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:93
+msgid "Estonian"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:379
+msgid "fifteen"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:387
+msgid "fifty"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:94
+msgid "Filipino"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:95
+msgid "Finnish"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:369
+msgid "five"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:386
+msgid "forty"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:368
+msgid "four"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:378
+msgid "fourteen"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:96
+msgid "French"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:97
+msgid "French (Canadian)"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:98
+msgid "Galician"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:99
+msgid "Georgian"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:100
+msgid "German"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:101
+msgid "German (Austria)"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:102
+msgid "German (Switzerland)"
+msgstr ""
+
+#: admin/view/c4wp-captcha-types.php:35
+msgid "Google Recaptcha ( V2 )"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:103
+msgid "Greek"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:67
+msgid "Groove"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:104
+msgid "Gujarati"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:105
+msgid "Hebrew"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:28
+msgid "Height (px)"
+msgstr ""
+
+#: admin/view/c4wp-other-settings.php:39
+msgid "Hide for logged in users"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:106
+msgid "Hindi"
+msgstr ""
+
+#: admin/view/c4wp-other-settings.php:16
+msgid "How to entitle field with captcha?"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:107
+msgid "Hungarain"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:108
+msgid "Icelandic"
+msgstr ""
+
+#: admin/view/c4wp-captcha-types.php:28
+msgid "Icon Captcha"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:80
+msgid "Icons Color"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:65
+msgid "Image"
+msgstr ""
+
+#: admin/view/c4wp-captcha-types.php:21
+msgid "Image Captcha"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:146
+msgid "In which Language you want your reCaptcha."
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:109
+msgid "Indonesian"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:110
+msgid "Italian"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:111
+msgid "Japanese"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:98
+msgid "Jetpack Contact Form"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:112
+msgid "Kannada"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:113
+msgid "Korean"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:114
+msgid "Laothian"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:115
+msgid "Latvian"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:53
+msgid "Light"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:116
+msgid "Lithuanian"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:84
+msgid "Lower Case"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:95
+msgid "Mailchimp Form"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:117
+msgid "Malay"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:118
+msgid "Malayalam"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:119
+msgid "Marathi"
+msgstr ""
+
+#: admin/view/c4wp-captcha-types.php:14
+msgid "Mathematical Captcha"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:61
+msgid "Medium"
+msgstr ""
+
+#: admin/view/c4wp-other-settings.php:25
+msgid "Message or text to display when CAPTCHA is empty?"
+msgstr ""
+
+#: admin/view/c4wp-other-settings.php:34
+msgid ""
+"Message or text to display when CAPTCHA is ignored or the test has failed?"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:86
+msgid "Mixed (Lower & Upper Case)"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:120
+msgid "Mongolian"
+msgstr ""
+
+#: admin/view/c4wp-mathematical-settings.php:30
+msgid "Multiplication ( &times; )"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:373
+msgid "nine"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:383
+msgid "nineteen"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:391
+msgid "ninety"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:60
+msgid "Noise Color"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:60
+msgid "None"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:43
+msgid "Normal"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:121
+msgid "Norwegian"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:93
+msgid "Number of Characters"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:108
+msgid "Number of Characters Display on Image Captcha."
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:21
+msgid "Number of Icons"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:36
+msgid "Number of Icons Display on Captcha."
+msgstr ""
+
+#: admin/view/c4wp-mathematical-settings.php:41
+msgid "Numbers"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:365
+msgid "one"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:74
+msgid "Only Alphabets"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:73
+msgid "Only Numbers"
+msgstr ""
+
+#: admin/view/class-c4wp-admin-wizard.php:28
+msgid "Other Settings"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:68
+msgid "Outset"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:122
+msgid "Persian"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:123
+msgid "Polish"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:124
+msgid "Portuguese"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:125
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:126
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:44
+msgid "Random Dots"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:37
+msgid "Random Lines"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:48
+msgid "Random Number of Dots Display on Image Captcha."
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:41
+msgid "Random Number of Lines Display on Image Captcha."
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:71
+msgid "reCaptcha Language"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:39
+msgid "reCaptcha Size"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:49
+msgid "reCaptcha Theme"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:61
+msgid "reCaptcha Type"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:127
+msgid "Romanian"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:128
+msgid "Russian"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:30
+msgid "Secret key"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:124
+msgid "Select font which you want Display on Image Captcha."
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:111
+msgid "Select Fonts"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:129
+msgid "Serbian"
+msgstr ""
+
+#: wp-captcha.php:260
+msgid "Settings"
+msgstr ""
+
+#: admin/class-c4wp-admin-settings.php:26
+msgid "Settings restore successfully."
+msgstr ""
+
+#: admin/class-c4wp-admin-settings.php:25
+msgid "Settings save successfully."
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:371
+msgid "seven"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:381
+msgid "seventeen"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:389
+msgid "seventy"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:130
+msgid "Sinhalese"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:21
+msgid "Site key"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:370
+msgid "six"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:380
+msgid "sixteen"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:388
+msgid "sixty"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:131
+msgid "Slovak"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:132
+msgid "Slovenian"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:69
+msgid "Solid"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:133
+msgid "Spanish"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:134
+msgid "Spanish (Latin America)"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:71
+msgid "Style of border in pixels."
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:92
+msgid "Subscriber Form by ( BestWebSoft )"
+msgstr ""
+
+#: admin/view/c4wp-mathematical-settings.php:28
+msgid "Substruction ( &minus; )"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:135
+msgid "Swahili"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:136
+msgid "Swedish"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:137
+msgid "Tamil"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:138
+msgid "Telugu"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:374
+msgid "ten"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:80
+msgid "Text Case"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:88
+msgid "Text Case available for Image Captcha."
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:53
+msgid "Text Color"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:139
+msgid "Thai"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:75
+msgid "The Color of Border."
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:84
+msgid "The Color of Icons."
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:64
+msgid "The Color of Noise used in Image Captcha."
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:57
+msgid "The Color of Text used in Image Captcha."
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:32
+msgid "The Height of Image Captcha in Pixels."
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:25
+msgid "The Width of Image Captcha in Pixels."
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:63
+msgid "Thik"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:62
+msgid "Thin"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:377
+msgid "thirteen"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:385
+msgid "thirty"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:367
+msgid "three"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:140
+msgid "Turkish"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:376
+msgid "twelve"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:384
+msgid "twenty"
+msgstr ""
+
+#: public/mathematical-captcha/class-c4wp-mathematical.php:366
+msgid "two"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:141
+msgid "Ukrainian"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:85
+msgid "Upper Case"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:142
+msgid "Urdu"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:34
+msgid ""
+"Used for communication between your site and Google. Grab it Secret Key <a "
+"href=\"https://www.google.com/recaptcha/admin\" target=\"_blank\">Here</a>"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:25
+msgid ""
+"Used for displaying the Google reCaptcha. Grab it Site Key <a href=\"https:"
+"//www.google.com/recaptcha/admin\" target=\"_blank\">Here</a>"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:143
+msgid "Vietnamese"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:46
+msgid "What size of google reCaptcha do you want to show?"
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:56
+msgid "What type of reCaptcha Theme do you want?"
+msgstr ""
+
+#: admin/view/c4wp-image-settings.php:21
+msgid "Width (px)"
+msgstr ""
+
+#: admin/view/c4wp-icon-settings.php:56
+msgid "Width of border in pixels."
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:128
+msgid "WooCommerce Checkout"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:119
+msgid "WooCommerce Login"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:122
+msgid "WooCommerce Registration"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:125
+msgid "WooCommerce Reset Password"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:86
+msgid "Wordpress Comments"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:77
+msgid "Wordpress Login"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:80
+msgid "Wordpress Registration"
+msgstr ""
+
+#: admin/view/c4wp-captcha-forms.php:83
+msgid "Wordpress Reset Password"
+msgstr ""
+
+#: admin/view/c4wp-mathematical-settings.php:43
+msgid "Words"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-c4wp-admin-settings.php:39
+#: admin/class-c4wp-admin-settings.php:40
+#: includes/modules/contact-form7/class-c4wp-contact-form7.php:103
+msgid "WP Captcha"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WP Captcha prove that the visitor is a human being and not a spam robot."
+msgstr ""
+
+#: includes/modules/contact-form7/class-c4wp-contact-form7.php:251
+msgid "You have entered an incorrect CAPTCHA. Please try again."
+msgstr ""
+
+#: includes/modules/contact-form7/class-c4wp-contact-form7.php:247
+msgid "Your captcha is empty. Please try again."
+msgstr ""
+
+#: admin/view/c4wp-recaptcha-settings.php:144
+msgid "Zulu"
+msgstr ""

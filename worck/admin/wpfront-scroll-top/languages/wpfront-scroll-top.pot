@@ -1,0 +1,405 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPFront Scroll Top\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-03 23:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.6.2"
+
+#: templates/options-template.php:89
+msgid "[Button fade duration in milliseconds.]"
+msgstr ""
+
+#: templates/options-template.php:115
+msgid ""
+"[Button will be auto hidden after this duration in seconds, if enabled.]"
+msgstr ""
+
+#: templates/options-template.php:160
+msgid "[Button will be hidden on 'wp-admin'.]"
+msgstr ""
+
+#: templates/options-template.php:142
+msgid "[Button will be hidden on broswer window when the width matches.]"
+msgstr ""
+
+#: templates/options-template.php:151
+msgid "[Button will be hidden on browser window with lesser or equal width.]"
+msgstr ""
+
+#: templates/options-template.php:133
+msgid "[Button will be hidden on devices with lesser or equal width.]"
+msgstr ""
+
+#: templates/options-template.php:169
+msgid "[Button will be hidden on iframes, usually inside popups.]"
+msgstr ""
+
+#: templates/options-template.php:124
+msgid "[Button will be hidden on small devices when the width matches.]"
+msgstr ""
+
+#: templates/options-template.php:204
+msgid ""
+"[CSS selector of the element, which has the scroll bar. \"html, body\" works "
+"in almost all cases.]"
+msgstr ""
+
+#: templates/options-template.php:199
+msgid ""
+"[CSS selector of the element, you are trying to scroll to. Ex: #myDivID, ."
+"myDivClass]"
+msgstr ""
+
+#: templates/options-template.php:192
+msgid "[Default action on WP-ADMIN pages.]"
+msgstr ""
+
+#: templates/options-template.php:52
+msgid ""
+"[Increases site performance. Keep it enabled, if there are no conflicts.]"
+msgstr ""
+
+#: templates/options-template.php:209
+msgid ""
+"[Negative value allowed. Use this filed to precisely set scroll position. "
+"Useful when you have overlapping elements.]"
+msgstr ""
+
+#: templates/options-template.php:251 templates/options-template.php:260
+msgid "[Negative value allowed.]"
+msgstr ""
+
+#: templates/options-template.php:61
+msgid "[Number of pixels to be scrolled before the button appears.]"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top.php:402
+#: classes/class-wpfront-scroll-top.php:406
+msgid "[Page]"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top.php:411
+msgid "[Post]"
+msgstr ""
+
+#: templates/options-template.php:72
+msgid "[Set 0px to auto fit.]"
+msgstr ""
+
+#: templates/options-template.php:279 templates/options-template.php:300
+msgid ""
+"[Use the textbox below to specify the post IDs as a comma separated list.]"
+msgstr ""
+
+#: templates/options-template.php:98
+msgid "[Window scroll duration in milliseconds.]"
+msgstr ""
+
+#: templates/options-template.php:274
+msgid "All pages."
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows the visitor to easily scroll back to the top of the page."
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:49
+msgid "Auto Hide"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:50
+msgid "Auto Hide After"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:72
+msgid "Background Color"
+msgstr ""
+
+#: templates/options-template.php:239
+msgid "Bottom Left"
+msgstr ""
+
+#: templates/options-template.php:238
+msgid "Bottom Right"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:60
+msgid "Button Action"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:47
+msgid "Button Fade Duration"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:46
+msgid "Button Opacity"
+msgstr ""
+
+#: templates/options-template.php:66
+msgid "Button Size"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:55
+msgid "Button Style"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top.php:466
+msgid "Buy me a Beer or Coffee"
+msgstr ""
+
+#: templates/options-template.php:472
+msgid "Choose Image"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:74
+#: classes/class-wpfront-scroll-top-options.php:80
+msgid "Custom CSS"
+msgstr ""
+
+#: templates/options-template.php:448
+msgid "Custom URL"
+msgstr ""
+
+#: templates/options-template.php:36
+msgid "Display"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:82
+msgid "Display on Pages"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:78
+msgid "Do not include URL"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:62
+msgid "Element CSS Selector"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:41
+msgid "Enabled"
+msgstr ""
+
+#: templates/options-template.php:373 templates/options-template.php:386
+#: templates/options-template.php:426
+msgid "ex:"
+msgstr ""
+
+#: templates/options-template.php:300
+msgid "Exclude in following pages"
+msgstr ""
+
+#: templates/options-template.php:265
+msgid "Filter"
+msgstr ""
+
+#: templates/options-template.php:182
+msgid "Font Awesome"
+msgstr ""
+
+#: templates/options-template.php:378
+msgid "Font Awesome Button"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:77
+msgid "Font Awesome URL"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:58
+msgid "Hide on iframes"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:51
+msgid "Hide on Small Devices"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:53
+msgid "Hide on Small Window"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:57
+msgid "Hide on WP-ADMIN"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top.php:402
+msgid "Home"
+msgstr ""
+
+#: templates/options-template.php:213
+msgid "How to find CSS selector?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://wpfront.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wpfront.com/scroll-top-plugin/"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:76
+msgid "Icon Class"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:79
+msgid "Icon Color"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top.php:443
+msgid ""
+"If you have a caching plugin, clear the cache for the new settings to take "
+"effect."
+msgstr ""
+
+#: templates/options-template.php:178
+msgid "Image"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:56
+msgid "Image ALT"
+msgstr ""
+
+#: templates/options-template.php:431
+msgid "Image Button"
+msgstr ""
+
+#: templates/options-template.php:279
+msgid "Include in following pages"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:42
+msgid "JavaScript Async"
+msgstr ""
+
+#: templates/options-template.php:217
+msgid "Link to Page"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:66
+#: templates/options-template.php:230
+msgid "Location"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:67
+msgid "Margin X"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:68
+msgid "Margin Y"
+msgstr ""
+
+#: templates/options-template.php:450
+msgid "Media Library"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:73
+msgid "Mouse Over Color"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:64
+msgid "Offset"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:61
+msgid "Page URL"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top.php:476
+msgid "Save Changes"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:63
+msgid "Scroll Container CSS Selector"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:48
+msgid "Scroll Duration"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:43
+msgid "Scroll Offset"
+msgstr ""
+
+#: templates/options-template.php:194
+msgid "Scroll to Element"
+msgstr ""
+
+#: templates/options-template.php:192
+msgid "Scroll to Top"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top.php:179
+msgid "Scroll Top"
+msgstr ""
+
+#: templates/options-template.php:473
+msgid "Select Image"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top.php:96
+msgid "Settings"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top.php:464
+msgid "Settings Description"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:52
+msgid "Small Device Max Width"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:54
+msgid "Small Window Max Width"
+msgstr ""
+
+#. Author of the plugin
+msgid "Syam Mohan"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:70
+#: templates/options-template.php:180
+msgid "Text"
+msgstr ""
+
+#: templates/options-template.php:323
+msgid "Text Button"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top-options.php:71
+msgid "Text Color"
+msgstr ""
+
+#: templates/options-template.php:241
+msgid "Top Left"
+msgstr ""
+
+#: templates/options-template.php:240
+msgid "Top Right"
+msgstr ""
+
+#. Name of the plugin
+#: classes/class-wpfront-scroll-top.php:179
+msgid "WPFront Scroll Top"
+msgstr ""
+
+#: templates/options-template.php:34
+msgid "WPFront Scroll Top Settings"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top.php:465
+msgid "Write a Review"
+msgstr ""
+
+#: classes/class-wpfront-scroll-top.php:424
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""

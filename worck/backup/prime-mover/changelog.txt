@@ -1,0 +1,234 @@
+== Changelog ==
+
+**This is a list detailing changes for all Prime Mover releases.**
+
+= 1.2.5 =
+
+* Fixed: Timeout errors with remote URL restore.
+* Fixed: Slow and redundant HTTP requests.
+* Fixed: Support for Google Drive.
+* Fixed: Outdated Freemius package.json file.
+
+= 1.2.4 =
+
+* Fixed: Fatal runtime errors with PHP 8.0.
+* Fixed: Usability issues with security configuration.
+* Fixed: Outdated automated tests.
+* Fixed: Compatibility with PHP 8.0.
+
+= 1.2.3 =
+
+* Fixed: Legacy main site search replace issues.
+* Fixed: Runtime error during plugin restore in multisite for some site configurations.
+* Fixed: Broken main site query for database names using hypens.
+* Fixed: Runtime error during theme restoration in multisite (for some configurations).
+* Fixed: Compatibility with WordPress 5.6.
+
+= 1.2.2 =
+
+* Fixed: Outdated Freemius SDK Library.
+* Fixed: Performance issues on plugin activation for some servers.
+* Fixed: Support for main site export and import.
+
+= 1.2.1 =
+
+* Fixed: Runtime fatal errors during restore caused by corrupted files inside WPRIME package.
+* Fixed: Search and replace URL issues in legacy multisites.
+* Fixed: Refreshed Elementor cache when migrating sites that uses Elementor plugin.
+
+= 1.2.0 =
+
+* Fixed: Incompatibility with changing process IDs due to forwarded proxy server addresses.
+* Fixed: Large readme.txt and splitted changelog to changelog.txt.
+* Fixed: Marketing improvement for the plugin.
+
+= 1.1.9 =
+
+* Fixed: Moved all multisite-level options to network site meta table.
+* Fixed: Updated Youtube introduction video to Prime Mover.
+
+= 1.1.8 =
+
+* Fixed: Delete outdated migration logs.
+* Fixed: Deleted package in temp directory in some limited hosting configurations during restore.
+* Fixed: Performance issues on prime_mover_after_user_meta_import hook.
+
+= 1.1.7 =
+
+* Fixed: Missing requisite for PDO MySQL PHP extension.
+* Fixed: Stucked on dB import process on some specialized servers.
+* Fixed: Error in database restore due to foreign key constraints.
+
+= 1.1.6 =
+
+* Fixed: 403 forbidden errors when downloading package.
+* Fixed: Removed incompatible INPUT_SERVER since some servers does not support it.
+* Fixed: Updated Freemius library to latest version 2.4.0.1.
+* Fixed: Cannot modify header information - headers already sent error in network admin pages.
+* Fixed: Import user meta timeout.
+* Fixed: Unable to download Prime Mover packages due to server caching.
+* Fixed: No buffer to flush error when downloading logs.
+* Fixed: Slow remote URL restoration.
+* Fixed: Fatal runtime error during theme restore process.
+
+= 1.1.5 =
+
+* Feature: Added new WPRIME archiving format for stability and better performance.
+* Feature: Added support for encrypting plugin and theme files.
+* Usability: Improved archiving and restoration performance by eliminating unneeded processes.
+* Usability: Use bytes when reporting archiving and restoration progress instead of files count.
+* Fixed: Encrypted packages handling in free versions.
+* Fixed: Fixed HEAD request timeout when fetching packages.
+* Fixed: Compatibility with WordPress 5.5
+* Fixed: Archiving errors with PHP 7.4.
+* Fixed: Use streams when copying very large files.
+* Fixed: Allow temp directory deletion to be retryable.
+
+= 1.1.4 =
+
+* Fixed: Saved backups deleted in Windows.
+* Fixed: Database restore error due to differing MySQL versions.
+* Fixed: Fatal error caused by incomplete theme restore.
+* Fixed: Performance issues in exporting plugins and themes.
+* Fixed: Performance issues when exporting media files.
+* Fixed: Error in zip archiving due to Windows long file names limitation.
+* Fixed: Performance issues in zip archiving closing due to compression enabled.
+* Fixed: Increase retry timeout times constant to 75 to minimize 503 errors.
+* Fixed: Poor zip archiving performance.
+
+= 1.1.3 =
+
+* Fixed: Incorrect diff percent progress update.
+* Fixed: Missing note to re-save permalinks after successful import.
+* Fixed: Mobile-responsive issues on backup menu page.
+* Fixed: Usability issues on restoring backup on the same site.
+* Fixed: Subsite license incorrected detected when license expired.
+* Feature: Added import and export success dialog to clearly marked completion.
+* Feature: Allow package restoration within site.
+* Feature: Added export as subsite backup option in multisite.
+* Usability: Remove auto-force download in free version.
+* Usability: Updated plugin styling for consistent branding.
+
+= 1.1.2 =
+
+* Fixed: Uncaught error max_allowed_packet on importing database.
+* Fixed: Restoring package in package management page is not clear.
+* Usability: Updated plugin texts for clarity.
+* Fixed: Uncaught error on null text response.
+
+= 1.1.1 =
+
+* Fixed: No SQL file exported when there is no executable dump command found.
+* Fixed: Slow upload restoration mode on localhost.
+* Fixed: No MySQLdump error returned when on shell mode.
+* Fixed: Incorrect MySQLdump PHP detection.
+* Feature: Added contact us form in Prime Mover plugin administration pages.
+* Feature: Added documentation link on some settings page.
+* Usability: Simplified migration tools page and improve error text.
+* Usability: Move important server requisite checks on plugin activation stage.
+
+= 1.1.0 =
+
+* Feature: Added support for user migration.
+* Feature: Added refresh backups button in backups menu.
+* Usability: Added links to migration tools and homepage link on backup menu page.
+* Fixed: Mixed content issues with search and replace.
+* Fixed: Inaccurate subsite license detection.
+* Fixed: Broken login session during import.
+* Fixed: Un-normalized windows paths.
+* Fixed: MySQLdump timeout errors in non-shell mode.
+
+= 1.0.9 =
+
+* Fixed: Compatibility issues with AWS Lightsail servers.
+* Fixed: Cannot create multisite package of sites without plugins.
+* Fixed: Incorrect message errors on wp-config.php writability.
+
+= 1.0.8 =
+
+* Fixed: Improvements in exporting and importing sites that support PHP exec functions.
+* Tested compatibility with WordPress 5.4.
+* Updated Fremmius Library to latest version.
+
+= 1.0.7 =
+
+* Fixed: Stability bug fixes and improve performance in very slow web host.
+* Feature: Backup and migration management page.
+* Feature: Automatically run long running tasks in PHP CLI environment background processes if supported.
+* Compatibility with PHP 7.4 and WordPress versions.
+* Added new tests.
+
+= 1.0.6 =
+
+ * Fixed: Compatibility with WordPress 5.3
+ * Fixed: Improved support for exporting and importing sites with very large uploads directory. 
+ * Fixed: Added progress indicator for large media uploads.
+ * Fixed: Add media files, database and configuration files directly to archive, to save disk space during export.
+ * Fixed: Added export type as requirement for export.
+ * Fixed: Improved support for exporting and importing large database.
+ * Fixed: Added progress indicator for large database export and restore.
+ * Fixed: Automatically add support for MySQL dump shell method.
+ * Fixed: Added support for migrating multisite package with different blog id to another multisite sub-site.
+ * Fixed: Bug on memory leak on core package uploading.
+ * Fixed: Bug on search replace found during testing. 
+ * Fixed: Skip search and replace process if restoring to a site with same parameters.
+ * Fixed: Improved support for doing extensive search and replace on database.
+ * Fixed: Added progress indicator on ongoing long search and replace process.
+ * Fixed: Improved support for large export generation and restore from remote URL API and Dropbox.
+ * Fixed: Improved support for importing many plugins and added import progress indicator.
+ * Fixed: Slow down progress ajax request, this is a protection for shared/cheap hosting flagging a rapid ajax import/export progress as DOS attack.
+ * Fixed: Upgrade Freemius SDK to latest version.
+ * Fixed: Make download resumable for core export.
+ * Fixed: Required sites using Prime Mover to have complete WordPress security keys.
+ * Fixed: Enabled migration logs by default.
+ * Fixed: If export and restore does not pass validation, returns fatal runtime error.
+ * Fixed: Improved support for low memory hosting servers.
+ 
+= 1.0.5 =
+* Fixed: Uncaught exception 'Exception' with message 'Unable to locate placement anchor.'
+* Fixed: Broken unit tests.
+
+= 1.0.4 =
+* Fixed: Long running exporter ajax issue causing process hang-up.
+* Fixed: Branding names to Prime Mover.
+* Fixed: Not enough throttle on AJAX upload chunk causing errors on large uploads.
+* Fixed: Issue on server timeout for long running import requests.
+* Fixed: User is not notified on stalled export and import processes.
+* Fixed: Temporary export or import directory is not deleted on stalled or terminated processes.
+* Fixed: No error logging on footprint checks.
+
+= 1.0.3 =
+* Fixed: Deactivation error handling not properly executed in non-compliant environments.
+* Fixed: Unable to restore site created by Pro version to Free version and vice versa.
+* Fixed: Fatal error on WP_FileSystem not being set.
+* Fixed: Freemius data removed after export / import.
+* Fixed: Unable to stream error log.
+* Fixed: Incompatibility with Really Simple SSL plugin after restoring to site without SSL.
+* Fixed; Unable to completely restore / import due to SSL differences between source and target site.
+* Fixed: Some functions not compliant with PHP Fig-PSR standards.
+* Fixed: User cannot disable maintenance mode if stucked.
+* Fixed: Cannot log debug data when not using Freemius-generated plugin versions.
+* Fixed: No progress indicator shown on export AJAX, conflict with sessions.
+* Fixed: Redundant FAQ on plugin readme, duplicated with developer site.
+* Fixed: Erratic upload progress behavior on slower connections.
+* Fixed: Errors when non-standard plugin slug is used.
+* Fixed: PHP notices when renaming table prefixes.
+* Fixed: Interim login screen disrupts long site restoration.
+* Fixed: JS errors on response stalling the restoration progress.
+* Fixed: Random fatal runtime errors when uploading package.
+* Fixed: Uploading hang-up when upload max size is not matching up with upload speed and browser.
+* Fixed: Cannot restore package due to media decryption error.
+
+= 1.0.2 =
+* Fixed issues related to MySQL PDO connections.
+* Updated MySQL debug log.
+* Updated unit tests.
+
+= 1.0.1 =
+* Fixed issues related to MySQLdump.
+
+= 1.0.0 =
+* Added maintenance mode control
+* Updated tests
+* Updated Freemius SDK to version 2.3.0
+* First version!

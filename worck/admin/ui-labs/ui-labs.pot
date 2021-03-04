@@ -1,0 +1,130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: UI Labs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-03 20:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.6.2"
+
+#: ui-labs.php:383
+msgid " (current setting)"
+msgstr ""
+
+#: ui-labs.php:270
+msgid "3.2-esque Footer"
+msgstr ""
+
+#: ui-labs.php:295
+msgid ""
+"Add colour coded labels to posts to easily identity their status (draft, "
+"scheduled, etc.)."
+msgstr ""
+
+#: ui-labs.php:330
+msgid "Add spacing and padding to the toolbar."
+msgstr ""
+
+#: ui-labs.php:375
+msgid ""
+"As of Wordpress 5.5, the server type is configured by the WordPress "
+"environment settings. You can change this by defining <code>"
+"WP_ENVIRONMENT_TYPE</code> in your <code>wp-config.php</code> file. "
+"Supported environments and their colours are as follows:"
+msgstr ""
+
+#: ui-labs.php:271
+msgid "Bigger Dashboard Fonts"
+msgstr ""
+
+#: ui-labs.php:268
+msgid "Colour-Coded Post Statuses"
+msgstr ""
+
+#: ui-labs.php:373
+msgid ""
+"Enable colour coding for your different servers for quick identification."
+msgstr ""
+
+#. Description of the plugin
+msgid "Experimental WordPress admin UI features, ooo shiny!"
+msgstr ""
+
+#: ui-labs.php:265
+msgid "Experiments to make your site cooler"
+msgstr ""
+
+#: ui-labs.php:312 ui-labs.php:317
+msgid ""
+"Flag WordPress.org hosted plugins if they have not been updated for over two "
+"years. Warning: This may slow your plugin list dashboard."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://halfelf.org"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://halfelf.org/plugins/ui-labs/"
+msgstr ""
+
+#: ui-labs.php:273
+msgid "Identify This Server"
+msgstr ""
+
+#: ui-labs.php:354
+msgid "Increase the font size in the admin dashboard."
+msgstr ""
+
+#. Author of the plugin
+msgid "John O'Nolan, Mika A Epstein"
+msgstr ""
+
+#: ui-labs.php:269
+msgid "More Toolbar Padding"
+msgstr ""
+
+#: ui-labs.php:309
+msgid "Network Admin Only"
+msgstr ""
+
+#: ui-labs.php:310
+msgid "Network and Per Site"
+msgstr ""
+
+#: ui-labs.php:308
+msgid "Never"
+msgstr ""
+
+#: ui-labs.php:250
+msgid "Options Updated!"
+msgstr ""
+
+#: ui-labs.php:342
+msgid "Restore a 3.2-esque admin footer."
+msgstr ""
+
+#: ui-labs.php:585
+msgid "Settings"
+msgstr ""
+
+#: ui-labs.php:283
+msgid "To activate an experiment, click the checkbox and save your settings."
+msgstr ""
+
+#. Name of the plugin
+#: ui-labs.php:211 ui-labs.php:220 ui-labs.php:220 ui-labs.php:404
+msgid "UI Labs"
+msgstr ""
+
+#: ui-labs.php:272
+msgid "Warn if Plugins Are Old"
+msgstr ""

@@ -1,0 +1,142 @@
+[
+    {
+        "name": "ifsnop/mysqldump-php",
+        "version": "dev-chunked-dump",
+        "version_normalized": "dev-chunked-dump",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/codex-m/mysqldump-php",
+            "reference": "ae801090f99bb38da95b2aafaa354253b56da431"
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.8.36",
+            "squizlabs/php_codesniffer": "1.*"
+        },
+        "time": "2019-09-27T13:12:18+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Ifsnop\\": "src/Ifsnop/"
+            }
+        },
+        "license": [
+            "GPL-3.0-or-later"
+        ],
+        "authors": [
+            {
+                "name": "Diego Torres",
+                "homepage": "https://github.com/ifsnop",
+                "role": "Developer"
+            }
+        ],
+        "description": "PHP version of mysqldump cli that comes with MySQL",
+        "homepage": "https://github.com/ifsnop/mysqldump-php",
+        "keywords": [
+            "database",
+            "hhvm",
+            "mariadb",
+            "mysql",
+            "mysql-backup",
+            "mysqldump",
+            "pdo",
+            "php",
+            "php5",
+            "php7",
+            "sql"
+        ]
+    },
+    {
+        "name": "splitbrain/php-archive",
+        "version": "dev-chunked-tar",
+        "version_normalized": "dev-chunked-tar",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/codex-m/php-archive",
+            "reference": "e77f43adedc880f6ef08ae10265a3387519047c3"
+        },
+        "require": {
+            "php": ">=5.4"
+        },
+        "require-dev": {
+            "ext-bz2": "*",
+            "ext-zip": "*",
+            "mikey179/vfsstream": "^1.6",
+            "phpunit/phpunit": "^4.8"
+        },
+        "suggest": {
+            "ext-iconv": "Used for proper filename encode handling",
+            "ext-mbstring": "Can be used alternatively for handling filename encoding"
+        },
+        "time": "2020-10-21T07:32:04+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "splitbrain\\PHPArchive\\": "src"
+            }
+        },
+        "autoload-dev": {
+            "psr-4": {
+                "splitbrain\\PHPArchive\\": "tests"
+            }
+        },
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Andreas Gohr",
+                "email": "andi@splitbrain.org"
+            }
+        ],
+        "description": "Pure-PHP implementation to read and write TAR and ZIP archives",
+        "keywords": [
+            "archive",
+            "extract",
+            "tar",
+            "unpack",
+            "unzip",
+            "zip"
+        ]
+    },
+    {
+        "name": "wp-cli/wp-config-transformer",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wp-cli/wp-config-transformer",
+            "reference": "d2f8fe66c42fd02e2e24eddfec05f9a4cd70e880"
+        },
+        "require": {
+            "php": ">=5.3.29"
+        },
+        "require-dev": {
+            "composer/composer": "^1.5.6",
+            "phpunit/phpunit": "^6.5.5 || ^7.0.0",
+            "wp-coding-standards/wpcs": "^0.14.0 || ^1.0.0 || ^2.0.0"
+        },
+        "time": "2020-07-07T00:22:14+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "files": [
+                "src/WPConfigTransformer.php"
+            ]
+        },
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Frankie Jarrett",
+                "email": "fjarrett@gmail.com"
+            }
+        ],
+        "description": "Programmatically edit a wp-config.php file."
+    }
+]

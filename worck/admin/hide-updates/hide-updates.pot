@@ -1,0 +1,35 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hide Updates\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-03 22:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.6.2"
+
+#. Name of the plugin
+msgid "Hide Updates"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://upperdog.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin hides update notifications for WordPress core, plugin, and theme "
+"updates in WordPress admin for all users except first registered user or "
+"specified users."
+msgstr ""
+
+#. Author of the plugin
+msgid "Upperdog"
+msgstr ""
