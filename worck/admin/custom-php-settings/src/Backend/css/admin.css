@@ -1,0 +1,25 @@
+#custom-php-settings-admin-header {
+    padding-top: 20px;
+}
+#custom-php-settings-admin-header h1 {
+    font-size: 23px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+#custom-php-settings-admin-header img {
+    float: left;
+    margin-right: 20px;
+}
+.custom-php-settings-table {
+    border: 1px solid #e5e5e5;
+    background-color: #fff;
+}
+.custom-php-settings-table tr:nth-child(2n) td {
+    background-color: #f0f0f0;
+}
+.custom-php-settings-table tr.modified td {
+    color: #ff0000;
+}
+.custom-php-settings-table td {
+    width: 33%;
+}
